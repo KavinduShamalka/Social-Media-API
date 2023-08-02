@@ -1,3 +1,3 @@
-# This is a Social-Media-API 
+># This is a Social-Media-API 
 
-# I developed this using Node JS, express and I used MongoDB as database.
+* ## Developed this using ***Node JS*** and ***express*** and used ***MongoDB*** as the database.
